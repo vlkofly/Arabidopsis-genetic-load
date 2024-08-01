@@ -6,9 +6,9 @@ Scripts used in: Whole genome duplication increases genetic diversity and load i
 ### adegenet_2023_arenosa.R
 Plot PCA and Distance tree using adegenet (Jombart 2008)
 ### plot.fourfold.div.R
-Analyse diversity and Tajima's D (results from [Scantools] (https://github.com/mbohutinska/ScanTools_ProtEvol))
+Analyse diversity and Tajima's D (results from [Scantools](https://github.com/mbohutinska/ScanTools_ProtEvol))
 ### plot.sfs.jan24.R
-Plot site frequency spectra (result from Tuomas Hamala [poly_sfs.c script] (https://github.com/thamala/polySV) )
+Plot site frequency spectra (result from Tuomas Hamala [poly_sfs.c script](https://github.com/thamala/polySV) )
 
 
 ## Polarisation using multiple reference genomes
