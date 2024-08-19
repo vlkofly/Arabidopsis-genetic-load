@@ -24,7 +24,8 @@ Filter alignment of outgroup genomes
 Run est-sfs to determine whether allele is ancestral or derived
 ### plot_polarisation.R
 Plot polarisation
-
+### get_ancestral.py
+Get polarisation key 
 
 ## Inference of distribution of fitness effect of new mutations using polyDFE
 Population site frequency spectra from est-sfs was used as input to polyDFE (Tataru and Bataillon 2018)
